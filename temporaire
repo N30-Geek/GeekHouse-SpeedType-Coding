@@ -1,30 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css" type="text/css">
-    <title>GeekHouse speed test typing for programmer</title>
-</head>
-<body>
-    <div class="contenair">
-        <div class="header">
-            <div class="image">
-                <a href="index.html"><img src="ressources/logo.png" alt="Logo GeekHouse SpeedTest typing"></a>
-            </div>
-            <!-- Le block des code du menu principale du soft -->
-            <div class="menu-content">
-                <span><a href="index.html">HOME</a></span>
-                <span><a href="testSpeed.html">TEST SPEED</a></span>
-                <span><a href="about.html">ABOUT</a></span>
-            </div>
-            <!-- La partie du code pour le bouton de switch en deux modes/ dark et light -->
-            <div class="swittchDarkLigh">
-                <div class="bockButton">
-                    <button id="clickedButton"></button>
-                </div>
-            </div>
-        </div>
-        <!-- Le code de message du bienvenue -->
+  <!-- Le code de message du bienvenue -->
         <div class="wellcome">
             <h1>Wellcome dans notre petite plate-forme du teste de la vitesse de frappe reservé aux programmeurs</h1>
 
@@ -38,26 +12,57 @@
                 <div class="language">
                     <h2>Python</h2>
                     <img src="ressources/pythonIcon.jpg" alt="Icone python">
+                </div>
+                <div class="language">
+                    <h2>Batch windows</h2>
                     <img src="ressources/batchIcon.jpg" alt="Icone batch">
+                </div>
+            </div>
+                <div class="language">
+                    <h2>C</h2>
                     <img src="ressources/cIcon.jpg" alt="Icone c">
+                </div>
+                <div class="language">
+                    <h2>C++</h2>
                     <img src="ressources/c++Icon.jpg" alt="Icone c++">
+                </div>
+                <div class="language">
+                    <h2>C#</h2>
                     <img src="ressources/cSharpIcon.jpg" alt="Icone c#">
+                </div>
+                <div class="language">
+                    <h2>Ruby</h2>
                     <img src="ressources/rubyIcon.jpg" alt="Icone ruby">
+                </div>
+                <div class="language">
+                    <h2>JavaScript</h2>">
                     <img src="ressources/javascriptIcon.jpg" alt="Icone javascipt">
+                </div>
+                <div class="language">
+                    <h2>Java</h2>">
                     <img src="ressources/javaIcon.jpg" alt="Icone java">
+                </div>
+                <div class="language">
+                    <h2>Perl</h2>">
                     <img src="ressources/perlIcon.jpg" alt="Icone parl">
+                </div>
+                <div class="language">
+                    <h2>Shell Lunix</h2>">
                     <img src="ressources/shIcon.jpg" alt="Icone sh">
+                </div>
+                <div class="language">
+                    <h2>Go</h2>">
                     <img src="ressources/goIcon.jpg" alt="Icone go lang">
+                </div>
+                <div class="language">
+                    <h2>Swift</h2>">
                     <img src="ressources/swiftIcon.jpg" alt="Icone swift">
+                </div>
+                <div class="language">
+                    <h2>Sql</h2>">
                     <img src="ressources/sqlnIcon.jpg" alt="Icone sql">
                 </div>
             </div>
+            </div>
+            </div>
         </div>
-        <div class="othors">
-            <h3>Fondateurs</h3>
-            <pre>N30-Geek        |        Ir. Lucien</pre>
-        </div>
-        <p id="copyright">Copyright &copy;2022 | Tout doits reservé</p>
-    </div>
-</body>
-</html>
